@@ -1,12 +1,12 @@
 /* uncomment next line to import external font */
-/* @import url(https://fonts.googleapis.com/css2?family=Dancing+Script); */
+@import url(https://fonts.googleapis.com/css2?family=Ojuju:wght@200..800&display=swap);
 
 h1 {
     text-align: center;
 }
 
 body {
-    /* font-family: 'Dancing Script', cursive; */
+    font-family: 'Ojuju', cursive;
     font-style: italic;
 }
 
